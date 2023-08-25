@@ -47,9 +47,9 @@ const productsData = [
     price: "55.00",
   },
   {
-    img: "/skirt-1.jpg",
+    img: "/frjacket1.jpg",
     title: "Skirt",
-    desc: "Black Floral Wrap Midi Skirt help your comfortable life",
+    desc: "Black Floral Wrap Midi Skirt help your comfortable life until u feel great try all explore all thank",
     rating: 5,
     price: "55.00",
   },
