@@ -1,56 +1,6 @@
-
-
-.icon {
-  font-size: 20px;
+.icon-box {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
-
-@media (max-width: 650px) {
-  .icon {
-    font-size: 15px; 
-  }
-
-  .navbar__link {
-    font-size: 12px; 
-  }
-
-}
-
-@media (max-width: 500px) {
-  .navbar__link {
-    display: block; 
-    text-align: center; 
-    padding: 10px;
-  }
-
-  .navbar__link::after {
-    display: none;
-  }
-
-  .icon {
-    font-size: 14px; 
-  }
-}
-
-@media (max-width: 380px) {
-  .navbar__link {
-    padding: 5px;
-  }
-  
-  .navbar__link::after {
-    bottom: -2px;
-  }
-
-  .icon {
-    font-size: 12px; 
-  }
-
-  .navbar__link-text {
-    font-size: 10px; 
-  }
-}
-
-
-
-
-
-
