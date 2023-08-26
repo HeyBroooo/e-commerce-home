@@ -1,17 +1,15 @@
-/* Import other styles as needed */
+
 
 .icon {
   font-size: 20px;
 }
 
-/* Apply smaller styles for screens below 650px */
 @media (max-width: 650px) {
   .icon {
-    font-size: 15px; /* Adjust the font size as needed */
+    font-size: 15px; 
   }
 
-  /* Adjust the font size for text */
   .navbar__link {
-    font-size: 12px; /* Adjust the font size for text */
+    font-size: 12px; 
   }
 }
