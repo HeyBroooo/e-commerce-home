@@ -30,4 +30,5 @@
   .navbar__link:hover::after {
     scale: 1;
   }
+  
 }
